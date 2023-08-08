@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfClassObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ClassObject>
+    <Id>LTW-HKI-2020</Id>
+    <Name>Lập trình web</Name>
+    <Usernameadmin>gold_hoang</Usernameadmin>
+    <Description>Sáng T1</Description>
+  </ClassObject>
+  <ClassObject>
+    <Id>LTW-HKII-2020</Id>
+    <Name>Lập trình web</Name>
+    <Usernameadmin>gold_hung</Usernameadmin>
+    <Description>Sáng T2</Description>
+  </ClassObject>
+  <ClassObject>
+    <Id>LTW-HKIII-2020</Id>
+    <Name>Lập trình web</Name>
+    <Usernameadmin>gold_hoang</Usernameadmin>
+    <Description>Sáng T3</Description>
+  </ClassObject>
+  <ClassObject>
+    <Id>LS22</Id>
+    <Name>Nguyễn Ngọc</Name>
+    <Usernameadmin>gold_hoang</Usernameadmin>
+    <Description>ádqwe12</Description>
+  </ClassObject>
+</ArrayOfClassObject>

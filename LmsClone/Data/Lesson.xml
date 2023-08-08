@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfLessonObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LessonObject>
+    <Idclass>LTW-HKI-2020</Idclass>
+    <Id>LS1</Id>
+    <Name>Bài 1</Name>
+    <Description>Bài mở đầu 1</Description>
+    <Detail>Nội dung bài học 1</Detail>
+  </LessonObject>
+  <LessonObject>
+    <Idclass>LTW-HKII-2020</Idclass>
+    <Id>LS1</Id>
+    <Name>Bài 1</Name>
+    <Description>Bài mở đầu 2</Description>
+    <Detail>Nội dung bài học 2</Detail>
+  </LessonObject>
+  <LessonObject>
+    <Idclass>LTW-HKIII-2020</Idclass>
+    <Id>LS1</Id>
+    <Name>Bài 1</Name>
+    <Description>Bài mở đầu 3</Description>
+    <Detail>Nội dung bài học 3</Detail>
+  </LessonObject>
+  <LessonObject>
+    <Idclass>LTW-HKI-2020</Idclass>
+    <Id>LS2</Id>
+    <Name>Bài 2</Name>
+    <Description>Bài mở đầu 2</Description>
+    <Detail>Nội dung bài 2</Detail>
+  </LessonObject>
+  <LessonObject>
+    <Idclass>LTW-HKIII-2020</Idclass>
+    <Id>LS2</Id>
+    <Name>Bài 2</Name>
+    <Description>Bài mở đầu 2</Description>
+    <Detail>Nội dung bài 2</Detail>
+  </LessonObject>
+</ArrayOfLessonObject>

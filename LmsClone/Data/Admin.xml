@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfAdminObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<AdminObject>
+		<Name>Nguyễn Huy Hoàng</Name>
+		<Username>gold_hoang</Username>
+		<Email>goldhoangvip01@gmail.com</Email>
+		<Password>123</Password>
+	</AdminObject>
+	<AdminObject>
+		<Name>Nguyễn Huy Hùng</Name>
+		<Username>gold_hung</Username>
+		<Email>goldhungvip01@gmail.com</Email>
+		<Password>123</Password>
+	</AdminObject>
+</ArrayOfAdminObject>
